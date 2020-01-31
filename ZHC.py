@@ -24,7 +24,7 @@ while xd:
     options.add_argument(r"C:\Users\sanja\AppData\Local\Google\Chrome\User Data")
     url = "https://www.youtube.com/channel/UClQubH2NeMmGLTLgNdLBwXg"
     prevVid = "Customizing 40 Apple Watches, Then Giving Them To People!!🍎⌚ (Giveaway)"
-    message = '1'
+    message = 'a'
     
     iterator+=1
     print(iterator)
